@@ -3,7 +3,7 @@ name: repetition-elaboration-amplifier
 description: Take a core observation and circle back to it multiple times with new angles, examples, and variations using Chris Rock's "tell them what you'll say, say it, tell them what you said" comedic struct...
 license: MIT
 metadata:
-  version: 1.0.4830
+  version: 1.0.4831
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
